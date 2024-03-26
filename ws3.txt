@@ -1,0 +1,20 @@
+TASK 1		
+Highest Monthly Earning in United Kingdom: 2000000
+	- highest montly earning in UK
+
+Highest Monthly Earning in India: 9000000
+	- highest montly earning in India
+
+Highest Monthly Earning in United States: 9200000
+	- highest montly earning in USA
+
+TASK 2
+Most Subscribers in Sports: 96000000
+	- most subscribers in sports category
+
+Most Subscribers in Entertainment: 166000000
+	- most subscribers in entertainment category
+
+Most Subscribers in Education: 162000000
+	- most subscribers in education category
+
